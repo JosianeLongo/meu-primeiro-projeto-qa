@@ -1,5 +1,7 @@
-# meu-primeiro-projeto-qa
+# Meu-primeiro-projeto-QA
+
 Meu primeiro projeto de estudos em Quality Assurance
+
 Olá meu nome é Josiane Longo.
 
 Sou profissional da área aeronáutica e estou iniciando meus estudos em Quality Assurance (QA).
