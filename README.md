@@ -8,13 +8,13 @@ Sou profissional da área aeronáutica e estou iniciando meus estudos em Quality
 
 ## Objetivos
 
-Aprender Git e GitHub
-Aprender testes de software
-Criar casos de teste
-Montar um portifólio profissional
+- Aprender Git e GitHub
+- Aprender testes de software
+- Criar casos de teste
+- Montar um portifólio profissional
 
 ## Ferramentas que estou estudando
 
-GitHub
-Git
-QA
+- GitHub
+- Git
+- QA
